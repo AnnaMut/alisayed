@@ -38,6 +38,10 @@ img {
   height: auto;
 }
 
-header {
-  display: flex;
+.discribtion-rigth {
+  padding: 44px 70px 70px 44px;
+}
+
+.services {
+  background-image: url(../img/servicesbkg.jpg);
 }
